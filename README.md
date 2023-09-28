@@ -1,5 +1,5 @@
 # Garthwaite_et_al_FAL
 
-Data associated with the article published in Fundamental and Applied Limnology in 2021.
+Data associated with "Summer flower pulses: Catkin litter processing in headwater streams" by Garthwaite et al. (2021), published in Fundamental and Applied Limnology, Vol 195(3), 243-254.
 
-If you would like to use any of these data for subsequent analyses or meta-analyses, please contact Dr. Carri LeRoy at LeRoyC@evergreen.edu. Failure to do so is a scientific ethics violation.
+These data are available for subsequent analyses or meta-analyses. It would be great if you could contact Dr. Carri LeRoy at LeRoyC@evergreen.edu and let us know about your research - Thanks!
